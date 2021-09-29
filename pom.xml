@@ -37,8 +37,10 @@
       <password>Bchandu@2001</password>
       <applicationName>coustmerapi</applicationName>
       <environment>Sandbox</environment>
-      <workers>1</workers>
       <workerType>MICRO</workerType>
+      <properties>
+        <key>value</key>
+      </properties>
     </cloudHubDeployment>
   </configuration>
 			</plugin>
